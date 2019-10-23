@@ -3,6 +3,8 @@ configuration.js
 configuration.json
 configuration.xml
 config.json
+config.py
+config.pyc
 local.env
 node_modules/
 volley/
@@ -11,3 +13,13 @@ volley/
 Carthage/
 *.framework
 composer-logs/
+*.zip
+package-lock.json
+*.ppt
+*.pptx
+plex/
+*.crt
+*.pyc
+__pycache__
+action.zip
+*.xlsx
